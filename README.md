@@ -23,7 +23,7 @@ El análisis busca responder:
   https://microdatos.dane.gov.co/  
 
 - **SECOP II – Contratación Pública**  
-[  [https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Contratos-Antioquia/p6s4-2xm3/data_preview](https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Contratos-Antioquia/p6s4-2xm3)
+[  [https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Contratos-Antioquia/p6s4-2xm3](https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Contratos-Antioquia/p6s4-2xm3)
 ]
 ---
 
