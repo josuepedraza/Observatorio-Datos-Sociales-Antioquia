@@ -3,31 +3,31 @@ Repositorio colaborativo para explorar y analizar datos de pobreza, mercado labo
 
 # Observatorio de Datos – Desarrollo Social y Económico en Antioquia
 
-## 👥 Equipo
+##  Equipo
 - @nataliazarate1
 - @Suarez5479
 - @josuepedraza
 - @CamilaReyes33
 
-## 🎯 Misión
+##  Misión
 Explorar y analizar cómo la inversión pública en infraestructura social (salud, vivienda y equipamientos comunitarios) en los municipios de Antioquia se relaciona con las condiciones de pobreza, servicios básicos y mercado laboral.
 
 El análisis busca responder:  
-👉 ¿Los municipios más pobres reciben mayor inversión en infraestructura social?  
-👉 ¿Cómo estas inversiones pueden contribuir al desarrollo social y económico?  
+ ¿Los municipios más pobres reciben mayor inversión en infraestructura social?  
+ ¿Cómo estas inversiones pueden contribuir al desarrollo social y económico?  
 
 ---
 
-## 🔎 Exploración de Portales
+## Exploración de Portales
 - **DANE – Estadísticas Nacionales**  
   https://microdatos.dane.gov.co/  
 
 - **SECOP II – Contratación Pública**  
-  https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Contratos-Antioquia/p6s4-2xm3/data_preview  
-
+[  https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Contratos-Antioquia/p6s4-2xm3/data_preview
+](https://www.datos.gov.co/api/v3/views/jbjy-vk9h/query.json)
 ---
 
-## 📂 Datasets Seleccionados
+##  Datasets Seleccionados
 
 ### 1. Censo Nacional de Población y Vivienda 2018 (CNPV – Antioquia)
 - **Descripción**: Información sobre hogares, personas y viviendas.  
