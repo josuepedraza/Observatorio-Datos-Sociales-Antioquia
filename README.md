@@ -23,7 +23,7 @@ El análisis busca responder:
   https://microdatos.dane.gov.co/  
 
 - **SECOP II – Contratación Pública**  
-[  https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Contratos-Antioquia/p6s4-2xm3/data_preview
+[  [https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Contratos-Antioquia/p6s4-2xm3/data_preview](https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Contratos-Antioquia/p6s4-2xm3/data_preview)
 ](https://www.datos.gov.co/api/v3/views/jbjy-vk9h/query.json)
 ---
 
@@ -47,19 +47,3 @@ El análisis busca responder:
 - **Calidad**: Datos agregados.  
 - **Acceso**: Descarga en Excel/CSV desde DANE.  
 
----
-
-## 📑 Entregables
-1. **Exploración de Portales**  
-   - Documentar acceso y estructura de datos.  
-
-2. **Identificación de Datasets**  
-   - Selección de 2-3 datasets de alto valor.  
-
-3. **Análisis Preliminar**  
-   - Nombre, descripción, calidad, frecuencia, acceso.  
-
-4. **Informe de Viabilidad**  
-   - Documento consolidado en este `README.md` o en `docs/informe_viabilidad.md`.  
-
----
